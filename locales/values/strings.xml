@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <string name="app_name">Memories {0}</string>
   <string name="lyric">&amp;nbsp;I thought love was only true in fairy tales</string>
-  <string name="lyric">one more string</string>
-  <string name="lyric">another string</string>
-  <string name="lyric">blablabla</string>
+  <string name="lyric2">one more string</string>
+  <string name="lyric3">another string</string>
+  <string name="lyric4">blablabla</string>
 </resources>
