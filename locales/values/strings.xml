@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">![CDATA[<>]]Memories&amp;amp; {0}</string>
+  <string name="app_name">Memories&amp;amp; {0}</string>
   <string name="lyric">![CDATA[&amp;]]nbsp;I thought love was only true in fairy tales</string>
   <string name="lyric2">&amp;apos;one more string</string>
   <string name="lyric3">another &amp;![CDATA[quot]];string</string>
