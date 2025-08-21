@@ -4,5 +4,5 @@
   <string name="lyric">![CDATA[&amp;]]nbsp;I thought love was only true in fairy tales</string>
   <string name="lyric2">&amp;apos;one more string</string>
   <string name="lyric3">another &amp;![CDATA[quot]];string</string>
-  <string name="lyric4">blablabla</string> <string name="app_nameccc">Memories&amp;amp; {0}</string>    
+  <string name="lyric4">blablabla</string>
 </resources>
