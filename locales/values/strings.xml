@@ -2,4 +2,4 @@
     <stylesheet>
         <variable name="key1">Hello World</variable>
         <variable name="key2">Goodbye</variable>
-</stylesheet>`
+</stylesheet>
